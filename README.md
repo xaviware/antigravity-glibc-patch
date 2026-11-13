@@ -44,8 +44,8 @@ Como consecuencia:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/<tu-usuario>/peppermint-antigravity.git
-   cd peppermint-antigravity
+   git clone https://github.com/xaviware/antigravity-glibc-patch.git
+   cd antigravity-glibc-patch
    ```
 
 2. (Opcional) Haz una copia de seguridad de los binarios originales:
